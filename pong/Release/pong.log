@@ -1,0 +1,38 @@
+﻿  Ball.cpp
+c:\users\abibulla\desktop\pong — копия\pong\ball.cpp(11): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+  CentLine.cpp
+  Racket.cpp
+c:\users\abibulla\desktop\pong — копия\pong\racket.cpp(32): warning C4244: -=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\abibulla\desktop\pong — копия\pong\racket.cpp(34): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\abibulla\desktop\pong — копия\pong\racket.cpp(39): warning C4244: -=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\abibulla\desktop\pong — копия\pong\racket.cpp(41): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Source.cpp
+c:\users\abibulla\desktop\pong — копия\pong\source.cpp(118): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\abibulla\desktop\pong — копия\pong\source.cpp(123): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+c:\users\abibulla\desktop\pong — копия\pong\source.cpp(162): warning C4244: =: преобразование "unsigned __int64" в "int", возможна потеря данных
+  Создание кода
+  1 of 100 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  pong.vcxproj -> C:\Users\Abibulla\Desktop\pong — копия\Release\pong.exe
